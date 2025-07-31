@@ -3,7 +3,11 @@
 This repository contains the project files for "ABHAYAM," an IoT-based women's safety device developed as a mini-project for the V semester of the Bachelor of Engineering in Computer Science. [cite_start]The project is affiliated with Visvesvaraya Technological University and was completed at K. S. Institute of Technology, Bengaluru[cite: 1, 3, 6].
 
 ![Abhayam Device](Abhayam_Device.jpg)
+## 📄 Project Report
 
+For complete details on the project's background, design, implementation, and testing, you can view the full project report.
+
+[View the Full Project Report (PDF)](final%20report%20mini-project.pdf)
 ## 📝 About the Project
 
 [cite_start]"ABHAYAM" is an innovative safety device designed to enhance the personal security of women in emergency situations[cite: 50]. [cite_start]The core of the system is the **A9G GSM/GPS module**, which provides real-time location tracking and communication capabilities[cite: 29].
